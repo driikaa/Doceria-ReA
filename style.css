@@ -149,7 +149,8 @@ html, body {
     float: right;
   }
   #div-img{
-    float: left;
+    display: flex;
+    justify-content: space-around;
   }
   #bolos{
     justify-content: space-between;
